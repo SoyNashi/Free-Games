@@ -65,7 +65,7 @@ if %ejcomprobacion%== n goto ejno
 goto start
 :ejyes
 echo delete.game/accepted.command/date.%ejfecha%/name.%ejnombre%/link.%ejlink%/code.%ejcode% >> %logtext%
-set ejfile=%code%.txt
+set ejfile=%ejcode%.txt
 echo var.check.ejfile.%ejfile% >> %logtext%
 echo ========================================= > %ejfile%
 echo = Fecha- %ejfecha% >> %ejfile%
@@ -74,7 +74,7 @@ echo = Link- %ejlink% >> %ejfile%
 echo = Code- %ejcode% >> %ejfile%
 echo ========================================= >> %ejfile%
 echo delete.game/done.command/date.%ejfecha%/name.%ejnombre%/link.%ejlink%/code.%ejcode% >> %logtext%
-move "%ejfile%" "deleted/"
+move %ejfile% "deleted/"
 echo file.moved/command.move./%ejfile%./deleted/ >> %logtext%
 goto start
 :ejno
