@@ -26,3 +26,21 @@ new.command/add.game/date ds. 30/04/2022, name d, link d /file.name readme.md /d
 code.created/var.check.code. 3394/code. 3394 
 app.started.on.30/04/2022/var.check.readme.readme.md/var.check.logtext.readme.txt 
 code.created/var.check.code. 7797/code. 7797 
+app.started.on.30/04/2022/var.check.readme.readme.md/var.check.logtext.readme.txt 
+code.created/var.check.code. 9237/code. 9237 
+command.goto.b/var.check.code. 9237/var.check.a.2 
+delete.game/started.command/date.20/5/34/name.hola buenas tareds/link.https://lssh.ml/code.7326 
+delete.game/accepted.command/date.20/5/34/name.hola buenas tareds/link.https://lssh.ml/code.7326 
+var.check.ejfile. 9237..txt 
+delete.game/done.command/date.20/5/34/name.hola buenas tareds/link.https://lssh.ml/code.7326 
+file.moved/command.move./ 9237..txt./deleted/ 
+code.created/var.check.code. 21800/code. 21800 
+app.started.on.30/04/2022/var.check.readme.readme.md/var.check.logtext.readme.txt 
+code.created/var.check.code. 9932/code. 9932 
+command.goto.b/var.check.code. 9932/var.check.a.2 
+delete.game/started.command/date.23/43/33/name.hola buenas tardes/link.hhttps:sdf:Eredg-etrg.whds/code.83274 
+delete.game/accepted.command/date.23/43/33/name.hola buenas tardes/link.hhttps:sdf:Eredg-etrg.whds/code.83274 
+var.check.ejfile. 9932.hola buenas tardes.txt 
+delete.game/done.command/date.23/43/33/name.hola buenas tardes/link.hhttps:sdf:Eredg-etrg.whds/code.83274 
+file.moved/command.move./ 9932.hola buenas tardes.txt./deleted/ 
+code.created/var.check.code. 17451/code. 17451 
