@@ -6,7 +6,7 @@ set logtext=readme.txt
 echo app.started.on.%date%/var.check.readme.%readme%/var.check.logtext.%logtext% >> %logtext%
 :start
 set code= %random%
-echo code.created/var.check.code.%code%/code.%code% >> %logtext%
+
 cls
 echo code = %code%
 echo 1 = crear
@@ -40,6 +40,7 @@ echo new.command/add.game/date %date%, name %name%, link %url% /file.name %readm
 goto start
 :b
 echo command.goto.b/var.check.code.%code%/var.check.a.%a% >> %logtext%
+echo code.created/var.check.code.%code%/code.%code% >> %logtext%
 cls 
 echo Zona de eliminacion de juego
 set /p ejfecha= Fecha- 
