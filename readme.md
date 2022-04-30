@@ -1,7 +1,7 @@
 ## Free games
 Made by nashi
 https://soynashi.tk
----
+
 # Nashi
 ##### - 👋 Hola, me llamo @SoyNashi
 ##### - 👀 Normalmene codifico webs pero aqui seguramente publique juegos gratis
@@ -24,14 +24,14 @@ https://soynashi.tk
 ## NFT
 
 > Si alguna cosa es la que me ha apoyado a hacer mis proyectos es la fe, y tengo mucha fe en que algo de lo que haga se consiga. Los NFT son algo complicados de entender y no me voy a poner a explicar su funcionamiento, breve resumen, los NFT son obras de arte (música, dibujos, fotos) encriptadas en una criptomoneda. He creado unos cuantos y los estoy vendiendo por OpenSea a ver si alguien ofrece algo.
-<iframe src="https://soynashi.tk/info/nft/index.html" style="border:0px #ffffff none;" name="myiFrame" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="400px" width="100%" allowfullscreen></iframe>
+https://soynashi.tk/info/nft/index.html
+
 
 ## Musica
 
 > También tengo como hobby hacer música, no soy muy bueno pero le voy pillando práctica. Te invito a mirar mi canal de youtube o mi cuenta de opensea para que puedas escuchar todas mis canciones y remixes.
+https://soynashi.tk/info/music/index.html
 
-<iframe src="https://soynashi.tk/info/music/index.html" style="border:0px #ffffff none;" name="myiFrame" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="1000px" width="100%" allowfullscreen></iframe>
 
-<iframe src="https://soynashi.tk" style="border:0px #ffffff none;" name="myiFrame" scrolling="yes" frameborder="1" marginheight="0px" marginwidth="0px" height="1000px" width="100%" allowfullscreen></iframe>
 
 
