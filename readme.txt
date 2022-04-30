@@ -44,3 +44,12 @@ var.check.ejfile. 9932.hola buenas tardes.txt
 delete.game/done.command/date.23/43/33/name.hola buenas tardes/link.hhttps:sdf:Eredg-etrg.whds/code.83274 
 file.moved/command.move./ 9932.hola buenas tardes.txt./deleted/ 
 code.created/var.check.code. 17451/code. 17451 
+app.started.on.30/04/2022/var.check.readme.readme.md/var.check.logtext.readme.txt 
+code.created/var.check.code. 10272/code. 10272 
+command.goto.b/var.check.code. 10272/var.check.a.2 
+delete.game/started.command/date.34235/name.22352/link.235234/code.23453 
+delete.game/accepted.command/date.34235/name.22352/link.235234/code.23453 
+var.check.ejfile. 10272.txt 
+delete.game/done.command/date.34235/name.22352/link.235234/code.23453 
+file.moved/command.move./ 10272.txt./deleted/ 
+code.created/var.check.code. 21173/code. 21173 
