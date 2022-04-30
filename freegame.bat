@@ -85,6 +85,7 @@ goto start
 echo command.goto.c/var.check.code.%code%/var.check.a.%a% >> %logtext%
 echo log msg
 set /p logmsg=Mensaje- 
+cls
 echo ===========================
 echo Log msg
 echo %logmsg%
@@ -93,4 +94,5 @@ echo ===========================>> %logtext%
 echo Log msg >> %logtext%
 echo %logmsg% >> %logtext%
 echo =========================== >> %logtext%
+pause
 goto start
