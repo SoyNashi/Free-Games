@@ -74,7 +74,7 @@ echo = Link- %ejlink% >> %ejfile%
 echo = Code- %ejcode% >> %ejfile%
 echo ========================================= >> %ejfile%
 echo delete.game/done.command/date.%ejfecha%/name.%ejnombre%/link.%ejlink%/code.%ejcode% >> %logtext%
-move "/%ejfile%" "/deleted/"
+move "%ejfile%" "deleted/"
 echo file.moved/command.move./%ejfile%./deleted/ >> %logtext%
 goto start
 :ejno
