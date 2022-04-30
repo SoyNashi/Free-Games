@@ -24,3 +24,5 @@ code.created/var.check.code. 12670/code. 12670
 command.goto.d/var.check.code. 12670/var.check.a.1 
 new.command/add.game/date ds. 30/04/2022, name d, link d /file.name readme.md /date.ds. 30/04/2022 /code. 12670 
 code.created/var.check.code. 3394/code. 3394 
+app.started.on.30/04/2022/var.check.readme.readme.md/var.check.logtext.readme.txt 
+code.created/var.check.code. 7797/code. 7797 
