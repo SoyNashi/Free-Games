@@ -41,8 +41,46 @@ goto start
 :b
 echo command.goto.b/var.check.code.%code%/var.check.a.%a% >> %logtext%
 cls 
-
+echo Zona de eliminacion de juego
+set /p ejfecha= Fecha- 
+set /p ejnombre= Nombre- 
+set /p ejlink= Link- 
+set /p ejcode= Code- 
+echo recibido
+echo delete.game/started.command/date.%ejfecha%/name.%ejnombre%/link.%ejlink%/code.%ejcode% >> %logtext%
+pause > nul
+cls
+echo Comprobacion de seguridad
+echo =========================================
+echo = Fecha- %ejfecha%
+echo = Nombre- %ejnombre%
+echo = Link- %ejlink%
+echo = Code- %ejcode%
+echo =========================================
+set /p ejcomprobacion= Seguro? (Y/N): 
+if %ejcomprobacion%== Y goto ejyes
+if %ejcomprobacion%== y goto ejyes
+if %ejcomprobacion%== N goto ejno
+if %ejcomprobacion%== n goto ejno
 goto start
+:ejyes
+echo delete.game/accepted.command/date.%ejfecha%/name.%ejnombre%/link.%ejlink%/code.%ejcode% >> %logtext%
+set ejfile=%code%.%name%.txt
+echo var.check.ejfile.%ejfile% >> %logtext%
+echo ========================================= > %ejfile%
+echo = Fecha- %ejfecha% >> %ejfile%
+echo = Nombre- %ejnombre% >> %ejfile%
+echo = Link- %ejlink% >> %ejfile%
+echo = Code- %ejcode% >> %ejfile%
+echo ========================================= >> %ejfile%
+echo delete.game/done.command/date.%ejfecha%/name.%ejnombre%/link.%ejlink%/code.%ejcode% >> %logtext%
+move "/%ejfile%" "/deleted/"
+echo file.moved/command.move./%ejfile%./deleted/ >> %logtext%
+goto start
+:ejno
+echo delete.game/canceled.command/date.%ejfecha%/name.%ejnombre%/link.%ejlink%/code.%ejcode% >> %logtext%
+goto start
+
 :c 
 echo command.goto.c/var.check.code.%code%/var.check.a.%a% >> %logtext%
 cls 
