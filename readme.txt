@@ -14,3 +14,13 @@ command.goto.c/var.check.code. 14578/var.check.a.3
 code.created/var.check.code. 31506/code. 31506 
 command.not.found 
 app.command.exit.ds. 30/04/2022 
+app.started.on.ds. 30/04/2022/var.check.readme.readme.md/var.check.logtext.readme.txt 
+code.created/var.check.code. 12598/code. 12598 
+command.goto.d/var.check.code. 12598/var.check.a.1 
+new.command/add.game/date ds. 30/04/2022, name  , link   /file.name readme.md /date.ds. 30/04/2022 /code. 12598 
+code.created/var.check.code. 29073/code. 29073 
+app.started.on.ds. 30/04/2022/var.check.readme.readme.md/var.check.logtext.readme.txt 
+code.created/var.check.code. 12670/code. 12670 
+command.goto.d/var.check.code. 12670/var.check.a.1 
+new.command/add.game/date ds. 30/04/2022, name d, link d /file.name readme.md /date.ds. 30/04/2022 /code. 12670 
+code.created/var.check.code. 3394/code. 3394 
