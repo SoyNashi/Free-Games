@@ -41,3 +41,9 @@ https://soynashi.tk/info/music/index.html
 Terraria v1.4.3.6 
 https://mega.nz/file/Z0gAkToC#w2l_EEmXuqUy_n_cllMnr7GtYjg1G-Y9IMxQ2dk9Uf4 
 ---------------------------------------------------------------------------- 
+---------------------------------------------------------------------------- 
+ 2052 
+dl. 09/05/2022 
+Dealers life 2 
+https://mega.nz/file/usMzVIZC#4l8Htb0f69otz5NOMx04Y2-tJeiP3X2xigDP5U2oMwI 
+---------------------------------------------------------------------------- 
