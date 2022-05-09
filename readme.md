@@ -51,6 +51,12 @@ https://mega.nz/file/usMzVIZC#4l8Htb0f69otz5NOMx04Y2-tJeiP3X2xigDP5U2oMwI
 ---------------------------------------------------------------------------- 
  27060 
 dl. 09/05/2022 
-PAPERS PLEASE PC ESPA¥OL v1.2.76  
+PAPERS PLEASE PC ESPAï¿½OL v1.2.76  
 https://mega.nz/file/A2YgzL7S#1JPq7jofwGXigJRuWNAT1yZPFDvwRFEMwxFjttCdffY 
+---------------------------------------------------------------------------- 
+---------------------------------------------------------------------------- 
+ 7668 
+dl. 09/05/2022 
+Portal v13.04.22 
+ https://www.mediafire.com/file/kz003l8sv80bnvm/P1ort1al-13.04.2022-elamigos.rar/file
 ---------------------------------------------------------------------------- 

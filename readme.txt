@@ -16,3 +16,6 @@ new.command/add.game/date dl. 09/05/2022, name Dealers life 2, link https://mega
 command.goto.d/var.check.code. 27060/var.check.a.1 
 new.command/add.game/date dl. 09/05/2022, name PAPERS PLEASE PC ESPA¥OL v1.2.76 , link https://mega.nz/file/A2YgzL7S#1JPq7jofwGXigJRuWNAT1yZPFDvwRFEMwxFjttCdffY /file.name readme.md /date.dl. 09/05/2022 /code. 27060 
 command.goto.d/var.check.code. 29658/var.check.a.1 
+app.started.on.dl. 09/05/2022/var.check.readme.readme.md/var.check.logtext.readme.txt 
+command.goto.d/var.check.code. 7668/var.check.a.1 
+new.command/add.game/date dl. 09/05/2022, name Portal v13.04.22, link  /file.name readme.md /date.dl. 09/05/2022 /code. 7668 
