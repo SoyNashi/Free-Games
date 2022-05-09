@@ -48,3 +48,9 @@ dl. 09/05/2022
 Dealers life 2 
 https://mega.nz/file/usMzVIZC#4l8Htb0f69otz5NOMx04Y2-tJeiP3X2xigDP5U2oMwI 
 ---------------------------------------------------------------------------- 
+---------------------------------------------------------------------------- 
+ 27060 
+dl. 09/05/2022 
+PAPERS PLEASE PC ESPA¥OL v1.2.76  
+https://mega.nz/file/A2YgzL7S#1JPq7jofwGXigJRuWNAT1yZPFDvwRFEMwxFjttCdffY 
+---------------------------------------------------------------------------- 
