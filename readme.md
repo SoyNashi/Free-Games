@@ -1,6 +1,7 @@
 ## Free games
 Made by nashi
 https://soynashi.tk
+[TOC]
 
 # Nashi
 ##### - 👋 Hola, me llamo @SoyNashi
