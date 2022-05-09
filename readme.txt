@@ -14,3 +14,5 @@ code.created/var.check.code. 2964/code. 2964 app.started.on.dl. 09/05/2022/var.c
 command.goto.d/var.check.code. 2052/var.check.a.1 
 new.command/add.game/date dl. 09/05/2022, name Dealers life 2, link https://mega.nz/file/usMzVIZC#4l8Htb0f69otz5NOMx04Y2-tJeiP3X2xigDP5U2oMwI /file.name readme.md /date.dl. 09/05/2022 /code. 2052 
 command.goto.d/var.check.code. 27060/var.check.a.1 
+new.command/add.game/date dl. 09/05/2022, name PAPERS PLEASE PC ESPA¥OL v1.2.76 , link https://mega.nz/file/A2YgzL7S#1JPq7jofwGXigJRuWNAT1yZPFDvwRFEMwxFjttCdffY /file.name readme.md /date.dl. 09/05/2022 /code. 27060 
+command.goto.d/var.check.code. 29658/var.check.a.1 
