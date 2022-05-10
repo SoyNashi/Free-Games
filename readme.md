@@ -1,6 +1,7 @@
 ## Free games
 Made by nashi
 https://soynashi.tk
+### contact email (freegames.github@soynashi.tk)
 
 
 # Nashi
@@ -63,12 +64,12 @@ Portal v13.04.22
 ---------------------------------------------------------------------------- 
  10421 
 dt. 10/05/2022 
-THE BINDING OF ISAAC REBIRT REPENTANCE v1.7.8a PC ESPA¥OL 
+THE BINDING OF ISAAC REBIRT REPENTANCE v1.7.8a PC ESPAï¿½OL 
 https://mega.nz/file/Tlt3SYqT#_tfl56_0l3mGUAlBoNM-9xzdjlCkPGS3uAKEbuL3LRs 
 ---------------------------------------------------------------------------- 
 ---------------------------------------------------------------------------- 
  27785 
 dt. 10/05/2022 
-OXYGEN NOT INCLUDED PC ESPA¥OL v496912 
+OXYGEN NOT INCLUDED PC ESPAï¿½OL v496912 
 https://mega.nz/file/8k42BAyK#CWIexKSiBfyxmC8U2FksjtSoMCMZyZ6sxUpsiex6oOQ 
 ---------------------------------------------------------------------------- 
