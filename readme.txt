@@ -24,3 +24,12 @@ new.command/add.game/date dt. 10/05/2022, name THE BINDING OF ISAAC REBIRT REPEN
 command.goto.d/var.check.code. 27785/var.check.a.1 
 new.command/add.game/date dt. 10/05/2022, name OXYGEN NOT INCLUDED PC ESPA¥OL v496912, link https://mega.nz/file/8k42BAyK#CWIexKSiBfyxmC8U2FksjtSoMCMZyZ6sxUpsiex6oOQ /file.name readme.md /date.dt. 10/05/2022 /code. 27785 
 app.started.on.dt. 10/05/2022/var.check.readme.readme.md/var.check.logtext.readme.txt 
+command.goto.d/var.check.code. 19712/var.check.a.1 
+new.command/add.game/date dt. 10/05/2022, name Dealers.Life.2.Sweet.Dreams, link https://mega.nz/file/wjZhyDgJ#geNfGJNZkSzfp9ob6El0-syDaDHQDMtYaMNs-_Vv6_c /file.name readme.md /date.dt. 10/05/2022 /code. 19712 
+command.goto.b/var.check.code. 15378/var.check.a.2 
+code.created/var.check.code. 15378/code. 15378 
+delete.game/started.command/date.dl. 09/05/2022 /name.Dealers life 2 /link.https://mega.nz/file/usMzVIZC#4l8Htb0f69otz5NOMx04Y2-tJeiP3X2xigDP5U2oMwI /code.2052 
+delete.game/accepted.command/date.dl. 09/05/2022 /name.Dealers life 2 /link.https://mega.nz/file/usMzVIZC#4l8Htb0f69otz5NOMx04Y2-tJeiP3X2xigDP5U2oMwI /code.2052 
+var.check.ejfile.2052.txt 
+delete.game/done.command/date.dl. 09/05/2022 /name.Dealers life 2 /link.https://mega.nz/file/usMzVIZC#4l8Htb0f69otz5NOMx04Y2-tJeiP3X2xigDP5U2oMwI /code.2052 
+file.moved/command.move./2052.txt./deleted/ 

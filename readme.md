@@ -44,12 +44,6 @@ Terraria v1.4.3.6
 https://mega.nz/file/Z0gAkToC#w2l_EEmXuqUy_n_cllMnr7GtYjg1G-Y9IMxQ2dk9Uf4 
 ---------------------------------------------------------------------------- 
 ---------------------------------------------------------------------------- 
- 2052 
-dl. 09/05/2022 
-Dealers life 2 
-https://mega.nz/file/usMzVIZC#4l8Htb0f69otz5NOMx04Y2-tJeiP3X2xigDP5U2oMwI 
----------------------------------------------------------------------------- 
----------------------------------------------------------------------------- 
  27060 
 dl. 09/05/2022 
 PAPERS PLEASE PC ESPA�OL v1.2.76  
@@ -72,4 +66,10 @@ https://mega.nz/file/Tlt3SYqT#_tfl56_0l3mGUAlBoNM-9xzdjlCkPGS3uAKEbuL3LRs
 dt. 10/05/2022 
 OXYGEN NOT INCLUDED PC ESPA�OL v496912 
 https://mega.nz/file/8k42BAyK#CWIexKSiBfyxmC8U2FksjtSoMCMZyZ6sxUpsiex6oOQ 
+---------------------------------------------------------------------------- 
+---------------------------------------------------------------------------- 
+ 19712 
+dt. 10/05/2022 
+Dealers.Life.2.Sweet.Dreams 
+https://mega.nz/file/wjZhyDgJ#geNfGJNZkSzfp9ob6El0-syDaDHQDMtYaMNs-_Vv6_c 
 ---------------------------------------------------------------------------- 
