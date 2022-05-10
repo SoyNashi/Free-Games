@@ -19,3 +19,7 @@ command.goto.d/var.check.code. 29658/var.check.a.1
 app.started.on.dl. 09/05/2022/var.check.readme.readme.md/var.check.logtext.readme.txt 
 command.goto.d/var.check.code. 7668/var.check.a.1 
 new.command/add.game/date dl. 09/05/2022, name Portal v13.04.22, link  /file.name readme.md /date.dl. 09/05/2022 /code. 7668 
+command.goto.d/var.check.code. 10421/var.check.a.1 
+new.command/add.game/date dt. 10/05/2022, name THE BINDING OF ISAAC REBIRT REPENTANCE v1.7.8a PC ESPA¥OL, link https://mega.nz/file/Tlt3SYqT#_tfl56_0l3mGUAlBoNM-9xzdjlCkPGS3uAKEbuL3LRs /file.name readme.md /date.dt. 10/05/2022 /code. 10421 
+command.goto.d/var.check.code. 27785/var.check.a.1 
+new.command/add.game/date dt. 10/05/2022, name OXYGEN NOT INCLUDED PC ESPA¥OL v496912, link https://mega.nz/file/8k42BAyK#CWIexKSiBfyxmC8U2FksjtSoMCMZyZ6sxUpsiex6oOQ /file.name readme.md /date.dt. 10/05/2022 /code. 27785 

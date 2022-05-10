@@ -60,3 +60,15 @@ dl. 09/05/2022
 Portal v13.04.22 
  https://www.mediafire.com/file/kz003l8sv80bnvm/P1ort1al-13.04.2022-elamigos.rar/file
 ---------------------------------------------------------------------------- 
+---------------------------------------------------------------------------- 
+ 10421 
+dt. 10/05/2022 
+THE BINDING OF ISAAC REBIRT REPENTANCE v1.7.8a PC ESPA¥OL 
+https://mega.nz/file/Tlt3SYqT#_tfl56_0l3mGUAlBoNM-9xzdjlCkPGS3uAKEbuL3LRs 
+---------------------------------------------------------------------------- 
+---------------------------------------------------------------------------- 
+ 27785 
+dt. 10/05/2022 
+OXYGEN NOT INCLUDED PC ESPA¥OL v496912 
+https://mega.nz/file/8k42BAyK#CWIexKSiBfyxmC8U2FksjtSoMCMZyZ6sxUpsiex6oOQ 
+---------------------------------------------------------------------------- 
