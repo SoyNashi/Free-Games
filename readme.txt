@@ -14,15 +14,15 @@ code.created/var.check.code. 2964/code. 2964 app.started.on.dl. 09/05/2022/var.c
 command.goto.d/var.check.code. 2052/var.check.a.1 
 new.command/add.game/date dl. 09/05/2022, name Dealers life 2, link https://mega.nz/file/usMzVIZC#4l8Htb0f69otz5NOMx04Y2-tJeiP3X2xigDP5U2oMwI /file.name readme.md /date.dl. 09/05/2022 /code. 2052 
 command.goto.d/var.check.code. 27060/var.check.a.1 
-new.command/add.game/date dl. 09/05/2022, name PAPERS PLEASE PC ESPA¥OL v1.2.76 , link https://mega.nz/file/A2YgzL7S#1JPq7jofwGXigJRuWNAT1yZPFDvwRFEMwxFjttCdffY /file.name readme.md /date.dl. 09/05/2022 /code. 27060 
+new.command/add.game/date dl. 09/05/2022, name PAPERS PLEASE PC ESPAï¿½OL v1.2.76 , link https://mega.nz/file/A2YgzL7S#1JPq7jofwGXigJRuWNAT1yZPFDvwRFEMwxFjttCdffY /file.name readme.md /date.dl. 09/05/2022 /code. 27060 
 command.goto.d/var.check.code. 29658/var.check.a.1 
 app.started.on.dl. 09/05/2022/var.check.readme.readme.md/var.check.logtext.readme.txt 
 command.goto.d/var.check.code. 7668/var.check.a.1 
 new.command/add.game/date dl. 09/05/2022, name Portal v13.04.22, link  /file.name readme.md /date.dl. 09/05/2022 /code. 7668 
 command.goto.d/var.check.code. 10421/var.check.a.1 
-new.command/add.game/date dt. 10/05/2022, name THE BINDING OF ISAAC REBIRT REPENTANCE v1.7.8a PC ESPA¥OL, link https://mega.nz/file/Tlt3SYqT#_tfl56_0l3mGUAlBoNM-9xzdjlCkPGS3uAKEbuL3LRs /file.name readme.md /date.dt. 10/05/2022 /code. 10421 
+new.command/add.game/date dt. 10/05/2022, name THE BINDING OF ISAAC REBIRT REPENTANCE v1.7.8a PC ESPAï¿½OL, link https://mega.nz/file/Tlt3SYqT#_tfl56_0l3mGUAlBoNM-9xzdjlCkPGS3uAKEbuL3LRs /file.name readme.md /date.dt. 10/05/2022 /code. 10421 
 command.goto.d/var.check.code. 27785/var.check.a.1 
-new.command/add.game/date dt. 10/05/2022, name OXYGEN NOT INCLUDED PC ESPA¥OL v496912, link https://mega.nz/file/8k42BAyK#CWIexKSiBfyxmC8U2FksjtSoMCMZyZ6sxUpsiex6oOQ /file.name readme.md /date.dt. 10/05/2022 /code. 27785 
+new.command/add.game/date dt. 10/05/2022, name OXYGEN NOT INCLUDED PC ESPAï¿½OL v496912, link https://mega.nz/file/8k42BAyK#CWIexKSiBfyxmC8U2FksjtSoMCMZyZ6sxUpsiex6oOQ /file.name readme.md /date.dt. 10/05/2022 /code. 27785 
 app.started.on.dt. 10/05/2022/var.check.readme.readme.md/var.check.logtext.readme.txt 
 command.goto.d/var.check.code. 19712/var.check.a.1 
 new.command/add.game/date dt. 10/05/2022, name Dealers.Life.2.Sweet.Dreams, link https://mega.nz/file/wjZhyDgJ#geNfGJNZkSzfp9ob6El0-syDaDHQDMtYaMNs-_Vv6_c /file.name readme.md /date.dt. 10/05/2022 /code. 19712 
@@ -38,3 +38,5 @@ command.goto.d/var.check.code. 18102/var.check.a.1
 new.command/add.game/date dc. 11/05/2022, name Centipede: Recharged, link https://steamunlocked.net/2-centipede-recharged-free-download/ /file.name readme.md /date.dc. 11/05/2022 /code. 18102 
 command.goto.d/var.check.code. 2013/var.check.a.1 
 new.command/add.game/date dc. 11/05/2022, name Cuphead deluxe edition v1.2, link https://mega.nz/#!v0MCxAQD!PlL5VKQHA_Asw-71sZuyyHiSWs4ovBVmF2hlBRxAkiI /file.name readme.md /date.dc. 11/05/2022 /code. 2013 
+command.goto.d/var.check.code. 6176/var.check.a.1 
+new.command/add.game/date dc. 11/05/2022, name Stardew Valley, link https://mega.nz/file/kB0UABqC#VpvZ30588WH_CJLhRbMqPDedQZ_HnEl4_VNnIFA80bs /file.name readme.md /date.dc. 11/05/2022 /code. 6176 
