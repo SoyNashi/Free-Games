@@ -116,7 +116,6 @@ Pokemon vs Zombies(Remake PvZ)
 https://mega.nz/file/JxY2AKTR#Vsh3mL99e1NPQUIbY6J2Q678JDVKBzfELw3xhq8t520 
 ---------------------------------------------------------------------------- 
 ---------------------------------------------------------------------------- 
-<<<<<<< Updated upstream
  15509 
 dc. 11/05/2022 
 Superhot 
@@ -139,10 +138,10 @@ https://steamunlocked.net/10-poppy-playtime-free-download/
 dc. 11/05/2022 
 Project Zomboid 
 https://steamunlocked.net/6-project-zomboid-free-pc-download/ 
-=======
+----------------------------------------------------------------------------
+----------------------------------------------------------------------------
  10916 
 dc. 11/05/2022 
 Cookie clicker 
 https://mega.nz/file/0E1z0QSR#KOrOs9GxJ8r87nqqOYfBt-2hYihAGeQTLhBFEpM-qaU 
->>>>>>> Stashed changes
 ---------------------------------------------------------------------------- 
