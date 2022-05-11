@@ -40,37 +40,37 @@ https://soynashi.tk/info/music/index.html
 ---------------------------------------------------------------------------- 
  12300 
 30/04/2022 
-Terraria v1.4.3.6 
+Terraria
 https://mega.nz/file/Z0gAkToC#w2l_EEmXuqUy_n_cllMnr7GtYjg1G-Y9IMxQ2dk9Uf4 
 ---------------------------------------------------------------------------- 
 ---------------------------------------------------------------------------- 
  27060 
 dl. 09/05/2022 
-PAPERS PLEASE PC ESPA�OL v1.2.76  
+PAPERS PLEASE
 https://mega.nz/file/A2YgzL7S#1JPq7jofwGXigJRuWNAT1yZPFDvwRFEMwxFjttCdffY 
 ---------------------------------------------------------------------------- 
 ---------------------------------------------------------------------------- 
  7668 
 dl. 09/05/2022 
-Portal v13.04.22 
+Portal
  https://www.mediafire.com/file/kz003l8sv80bnvm/P1ort1al-13.04.2022-elamigos.rar/file
 ---------------------------------------------------------------------------- 
 ---------------------------------------------------------------------------- 
  10421 
 dt. 10/05/2022 
-THE BINDING OF ISAAC REBIRT REPENTANCE v1.7.8a PC ESPA�OL 
+THE BINDING OF ISAAC REBIRT REPENTANCE
 https://mega.nz/file/Tlt3SYqT#_tfl56_0l3mGUAlBoNM-9xzdjlCkPGS3uAKEbuL3LRs 
 ---------------------------------------------------------------------------- 
 ---------------------------------------------------------------------------- 
  27785 
 dt. 10/05/2022 
-OXYGEN NOT INCLUDED PC ESPA�OL v496912 
+OXYGEN NOT INCLUDED
 https://mega.nz/file/8k42BAyK#CWIexKSiBfyxmC8U2FksjtSoMCMZyZ6sxUpsiex6oOQ 
 ---------------------------------------------------------------------------- 
 ---------------------------------------------------------------------------- 
  19712 
 dt. 10/05/2022 
-Dealers.Life.2.Sweet.Dreams 
+Dealer's Life 2
 https://mega.nz/file/wjZhyDgJ#geNfGJNZkSzfp9ob6El0-syDaDHQDMtYaMNs-_Vv6_c 
 ---------------------------------------------------------------------------- 
 ---------------------------------------------------------------------------- 
@@ -82,7 +82,7 @@ https://steamunlocked.net/2-centipede-recharged-free-download/
 ---------------------------------------------------------------------------- 
  2013 
 dc. 11/05/2022 
-Cuphead deluxe edition v1.2 
+Cuphead
 https://mega.nz/#!v0MCxAQD!PlL5VKQHA_Asw-71sZuyyHiSWs4ovBVmF2hlBRxAkiI 
 ---------------------------------------------------------------------------- 
 ---------------------------------------------------------------------------- 
@@ -130,7 +130,7 @@ https://www.mediafire.com/file/slzkj1wy2bv7fwx/The.Planet.Crafter.Early.Access.r
 ---------------------------------------------------------------------------- 
  17115 
 dc. 11/05/2022 
-Poppy Playtime Free Download (Incl. Chapter 1 & 2)
+Poppy Playtime(Chapter 1 & 2)
 https://steamunlocked.net/10-poppy-playtime-free-download/ 
 ---------------------------------------------------------------------------- 
 ---------------------------------------------------------------------------- 
