@@ -76,14 +76,4 @@ new.command/add.game.in.glist/date dc. 11/05/2022, name Super Worldbox /file.nam
 command.goto.d/var.check.code. 24057/var.check.a.1 
 new.command/add.game/date dc. 11/05/2022, name Pokemon Uranium, link https://www.mediafire.com/file/k6qa3f9jsacglq8/uranium.zip/file /file.name readme.md /date.dc. 11/05/2022 /code. 24057 
 new.command/add.game.in.glist/date dc. 11/05/2022, name Pokemon Uranium /file.name gamelist.md /date.dc. 11/05/2022 /code. 24057 
-start.backup.dc. 11/05/2022 
-start.backup.dc. 11/05/2022 
-start.backup.dc. 11/05/2022 
-var.check.a.Readme_2022-05-11.txt/var.check.b.Log_2022-05-11.txt/var.check.c.Glist_2022-05-11.txt/ 
-file.created.Readme_2022-05-11.txt 
-file.created.Log_2022-05-11.txt 
-file.created.Glist_2022-05-11.txt 
-file.copied.readmemd.to.Readme_2022-05-11.txt 
-file.copied.readmetxt.to.Log_2022-05-11.txt 
-file.copied.gamelistmd.to.Glist_2022-05-11.txt 
-backup.completed 
+
