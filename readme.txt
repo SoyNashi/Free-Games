@@ -109,3 +109,6 @@ command.goto.d/var.check.code. 12391/var.check.a.1
 new.command/add.game/date dc. 11/05/2022, name SAMURAI JACK Battle Through Time PC ESPA¥OL, link https://mega.nz/file/fkF3xKYI#2iaGrqPDBjFiqrysInDUQuqNfBmwBPDjNnUXB1zjbkw /file.name readme.md /date.dc. 11/05/2022 /code. 12391 
 new.command/add.game.in.glist/date dc. 11/05/2022, name SAMURAI JACK Battle Through Time PC ESPA¥OL /file.name gamelist.md /date.dc. 11/05/2022 /code. 12391 
 command.goto.d/var.check.code. 3244/var.check.a.1 
+new.command/add.game/date dc. 11/05/2022, name GLEAMLIGHT PC ESPA¥OL, link https://mega.nz/file/pZlyXYJT#JKDdCE7fNvKZhxgX4QHTLp-lZAW6_tOAi6ebADVvSZI /file.name readme.md /date.dc. 11/05/2022 /code. 3244 
+new.command/add.game.in.glist/date dc. 11/05/2022, name GLEAMLIGHT PC ESPA¥OL /file.name gamelist.md /date.dc. 11/05/2022 /code. 3244 
+command.goto.d/var.check.code. 2635/var.check.a.1 
