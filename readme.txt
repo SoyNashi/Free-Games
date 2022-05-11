@@ -120,3 +120,7 @@ new.command/add.game.in.glist/date dc. 11/05/2022, name NEON ABYSS /file.name ga
 command.goto.d/var.check.code. 23782/var.check.a.1 
 new.command/add.game/date dc. 11/05/2022, name MEWN BASE PC EN ESPA¥OL v0.51, link https://mega.nz/file/zQFHhITJ#OnEum57vFBwP1ROnXM1DvFf-PasXc5egZnf88yz7QGM /file.name readme.md /date.dc. 11/05/2022 /code. 23782 
 new.command/add.game.in.glist/date dc. 11/05/2022, name MEWN BASE PC EN ESPA¥OL v0.51 /file.name gamelist.md /date.dc. 11/05/2022 /code. 23782 
+app.started.on.dc. 11/05/2022/var.check.readme.readme.md/var.check.logtext.readme.txt/var.check.glist.gamelist.md 
+command.goto.d/var.check.code. 28910/var.check.a.1 
+new.command/add.game/date dc. 11/05/2022, name MAD GAMES TYCOON PC ESPA¥OL , link https://mega.nz/#!xdMlRCaS!zVI_Z1-K1T-OWgj9fzyBYizCcBEG9nKRWPzksZr0A-E /file.name readme.md /date.dc. 11/05/2022 /code. 28910 
+new.command/add.game.in.glist/date dc. 11/05/2022, name MAD GAMES TYCOON PC ESPA¥OL  /file.name gamelist.md /date.dc. 11/05/2022 /code. 28910 
