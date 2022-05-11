@@ -217,3 +217,9 @@ dc. 11/05/2022
 MEWN BASE PC EN ESPA¥OL v0.51 
 https://mega.nz/file/zQFHhITJ#OnEum57vFBwP1ROnXM1DvFf-PasXc5egZnf88yz7QGM 
 ---------------------------------------------------------------------------- 
+---------------------------------------------------------------------------- 
+ 28910 
+dc. 11/05/2022 
+MAD GAMES TYCOON PC ESPA¥OL  
+https://mega.nz/#!xdMlRCaS!zVI_Z1-K1T-OWgj9fzyBYizCcBEG9nKRWPzksZr0A-E 
+---------------------------------------------------------------------------- 
