@@ -193,3 +193,9 @@ dc. 11/05/2022
 SAMURAI JACK Battle Through Time PC ESPA¥OL 
 https://mega.nz/file/fkF3xKYI#2iaGrqPDBjFiqrysInDUQuqNfBmwBPDjNnUXB1zjbkw 
 ---------------------------------------------------------------------------- 
+---------------------------------------------------------------------------- 
+ 3244 
+dc. 11/05/2022 
+GLEAMLIGHT PC ESPA¥OL 
+https://mega.nz/file/pZlyXYJT#JKDdCE7fNvKZhxgX4QHTLp-lZAW6_tOAi6ebADVvSZI 
+---------------------------------------------------------------------------- 
