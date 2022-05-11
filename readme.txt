@@ -86,3 +86,12 @@ file.copied.readmemd.to.Readme_2022-05-11.txt
 file.copied.readmetxt.to.Log_2022-05-11.txt 
 file.copied.gamelistmd.to.Glist_2022-05-11.txt 
 backup.completed 
+start.backup.dc. 11/05/2022 
+var.check.a.Readme_2022-05-11.txt/var.check.b.Log_2022-05-11.txt/var.check.c.Glist_2022-05-11.txt/ 
+file.created.Readme_2022-05-11.txt 
+file.created.Log_2022-05-11.txt 
+file.created.Glist_2022-05-11.txt 
+file.copied.readmemd.to.Readme_2022-05-11.txt 
+file.copied.readmetxt.to.Log_2022-05-11.txt 
+file.copied.gamelistmd.to.Glist_2022-05-11.txt 
+backup.completed 
