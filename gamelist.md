@@ -22,3 +22,5 @@
 #### Pokemon Uranium 
 #### just shapes 
 #### BATTLETOADS PC ESPA¥OL 
+#### THE HENRY STICKMIN COLLECTION PC  
+#### SAMURAI JACK Battle Through Time PC ESPA¥OL 
