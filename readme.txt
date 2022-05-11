@@ -95,3 +95,11 @@ file.copied.readmemd.to.Readme_2022-05-11.txt
 file.copied.readmetxt.to.Log_2022-05-11.txt 
 file.copied.gamelistmd.to.Glist_2022-05-11.txt 
 backup.completed 
+app.started.on.dc. 11/05/2022/var.check.readme.readme.md/var.check.logtext.readme.txt/var.check.glist.gamelist.md 
+command.goto.d/var.check.code. 15012/var.check.a.1 
+new.command/add.game/date dc. 11/05/2022, name just shapes, link https://mega.nz/file/hFVzTADZ#Gy5xksKMhwPoPXsg97Acwc-zXVFbiOO00K6tCns7aGY /file.name readme.md /date.dc. 11/05/2022 /code. 15012 
+new.command/add.game.in.glist/date dc. 11/05/2022, name just shapes /file.name gamelist.md /date.dc. 11/05/2022 /code. 15012 
+command.goto.d/var.check.code. 6286/var.check.a.1 
+new.command/add.game/date dc. 11/05/2022, name BATTLETOADS PC ESPA¥OL, link https://playpaste.com/?v=nGG /file.name readme.md /date.dc. 11/05/2022 /code. 6286 
+new.command/add.game.in.glist/date dc. 11/05/2022, name BATTLETOADS PC ESPA¥OL /file.name gamelist.md /date.dc. 11/05/2022 /code. 6286 
+command.goto.d/var.check.code. 14099/var.check.a.1 
