@@ -33,3 +33,6 @@ delete.game/accepted.command/date.dl. 09/05/2022 /name.Dealers life 2 /link.http
 var.check.ejfile.2052.txt 
 delete.game/done.command/date.dl. 09/05/2022 /name.Dealers life 2 /link.https://mega.nz/file/usMzVIZC#4l8Htb0f69otz5NOMx04Y2-tJeiP3X2xigDP5U2oMwI /code.2052 
 file.moved/command.move./2052.txt./deleted/ 
+app.started.on.dc. 11/05/2022/var.check.readme.readme.md/var.check.logtext.readme.txt 
+command.goto.d/var.check.code. 18102/var.check.a.1 
+new.command/add.game/date dc. 11/05/2022, name Centipede: Recharged, link https://steamunlocked.net/2-centipede-recharged-free-download/ /file.name readme.md /date.dc. 11/05/2022 /code. 18102 
