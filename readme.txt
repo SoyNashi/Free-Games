@@ -38,3 +38,11 @@ command.goto.d/var.check.code. 18102/var.check.a.1
 new.command/add.game/date dc. 11/05/2022, name Centipede: Recharged, link https://steamunlocked.net/2-centipede-recharged-free-download/ /file.name readme.md /date.dc. 11/05/2022 /code. 18102 
 command.goto.d/var.check.code. 6176/var.check.a.1 
 new.command/add.game/date dc. 11/05/2022, name Stardew Valley, link https://mega.nz/file/kB0UABqC#VpvZ30588WH_CJLhRbMqPDedQZ_HnEl4_VNnIFA80bs /file.name readme.md /date.dc. 11/05/2022 /code. 6176 
+command.goto.d/var.check.code. 29949/var.check.a.1 
+new.command/add.game/date dc. 11/05/2022, name Forager, link https://mega.nz/file/Cw1FjIIL#xy1gkk_xrAx12OoZckWFqJ-sGEurJb3roq0cxD_MAGI /file.name readme.md /date.dc. 11/05/2022 /code. 29949 
+command.goto.d/var.check.code. 18628/var.check.a.1 
+new.command/add.game/date dc. 11/05/2022, name Plague Inc., link https://www.mediafire.com/file/8vf7av64pylr003/Pl4gu3Inc1.18.4.0.rar/file /file.name readme.md /date.dc. 11/05/2022 /code. 18628 
+command.goto.d/var.check.code. 13640/var.check.a.1 
+new.command/add.game/date dc. 11/05/2022, name Minecraft, link https://www.salwyrr.com/ /file.name readme.md /date.dc. 11/05/2022 /code. 13640 
+command.goto.d/var.check.code. 866/var.check.a.1 
+new.command/add.game/date dc. 11/05/2022, name Pokemon vs Zombies(Remake PvZ), link https://mega.nz/file/JxY2AKTR#Vsh3mL99e1NPQUIbY6J2Q678JDVKBzfELw3xhq8t520 /file.name readme.md /date.dc. 11/05/2022 /code. 866 
