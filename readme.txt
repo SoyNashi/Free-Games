@@ -114,3 +114,7 @@ new.command/add.game.in.glist/date dc. 11/05/2022, name GLEAMLIGHT PC ESPA¥OL /f
 command.goto.d/var.check.code. 2635/var.check.a.1 
 new.command/add.game/date dc. 11/05/2022, name SKELATTACK, link https://mega.nz/file/5lglHKCK#hRRum2OCW7U2vZBIfdKqxnWNmIC-SY7QQVY9o7BVB_4 /file.name readme.md /date.dc. 11/05/2022 /code. 2635 
 new.command/add.game.in.glist/date dc. 11/05/2022, name SKELATTACK /file.name gamelist.md /date.dc. 11/05/2022 /code. 2635 
+command.goto.d/var.check.code. 22680/var.check.a.1 
+new.command/add.game/date dc. 11/05/2022, name NEON ABYSS, link https://mega.nz/file/8B0WGY6K#EY9GkUl4Z9D1THZKJKIzrp8FcPBFc1liKSTDSYe1KeA /file.name readme.md /date.dc. 11/05/2022 /code. 22680 
+new.command/add.game.in.glist/date dc. 11/05/2022, name NEON ABYSS /file.name gamelist.md /date.dc. 11/05/2022 /code. 22680 
+command.goto.d/var.check.code. 23782/var.check.a.1 
