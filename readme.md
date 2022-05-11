@@ -79,3 +79,9 @@ dc. 11/05/2022
 Centipede: Recharged 
 https://steamunlocked.net/2-centipede-recharged-free-download/ 
 ---------------------------------------------------------------------------- 
+---------------------------------------------------------------------------- 
+ 2013 
+dc. 11/05/2022 
+Cuphead deluxe edition v1.2 
+https://mega.nz/#!v0MCxAQD!PlL5VKQHA_Asw-71sZuyyHiSWs4ovBVmF2hlBRxAkiI 
+---------------------------------------------------------------------------- 
