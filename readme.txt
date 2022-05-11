@@ -72,3 +72,7 @@ new.command/add.game.in.glist/date dc. 11/05/2022, name a /file.name gamelist.md
 app.started.on.dc. 11/05/2022/var.check.readme.readme.md/var.check.logtext.readme.txt 
 command.goto.d/var.check.code. 23422/var.check.a.1 
 >>>>>>> Stashed changes
+app.started.on.dc. 11/05/2022/var.check.readme.readme.md/var.check.logtext.readme.txt/var.check.glist.gamelist.md 
+command.goto.d/var.check.code. 26978/var.check.a.1 
+new.command/add.game/date dc. 11/05/2022, name Super Worldbox, link https://www.mediafire.com/file/rrmcdqdoi8a0wjz/Super.Worldbox.v0.10.1.zip/file /file.name readme.md /date.dc. 11/05/2022 /code. 26978 
+new.command/add.game.in.glist/date dc. 11/05/2022, name Super Worldbox /file.name gamelist.md /date.dc. 11/05/2022 /code. 26978 
