@@ -181,3 +181,15 @@ dc. 11/05/2022
 BATTLETOADS PC ESPA¥OL 
 https://playpaste.com/?v=nGG 
 ---------------------------------------------------------------------------- 
+---------------------------------------------------------------------------- 
+ 14099 
+dc. 11/05/2022 
+THE HENRY STICKMIN COLLECTION PC  
+https://mega.nz/file/X9wlzRSZ#pl0dvTQUqKGZdYxF2uLXI3tg-xUoMEU6oHq_t1zMn7U 
+---------------------------------------------------------------------------- 
+---------------------------------------------------------------------------- 
+ 12391 
+dc. 11/05/2022 
+SAMURAI JACK Battle Through Time PC ESPA¥OL 
+https://mega.nz/file/fkF3xKYI#2iaGrqPDBjFiqrysInDUQuqNfBmwBPDjNnUXB1zjbkw 
+---------------------------------------------------------------------------- 
