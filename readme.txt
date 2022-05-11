@@ -36,3 +36,5 @@ file.moved/command.move./2052.txt./deleted/
 app.started.on.dc. 11/05/2022/var.check.readme.readme.md/var.check.logtext.readme.txt 
 command.goto.d/var.check.code. 18102/var.check.a.1 
 new.command/add.game/date dc. 11/05/2022, name Centipede: Recharged, link https://steamunlocked.net/2-centipede-recharged-free-download/ /file.name readme.md /date.dc. 11/05/2022 /code. 18102 
+command.goto.d/var.check.code. 2013/var.check.a.1 
+new.command/add.game/date dc. 11/05/2022, name Cuphead deluxe edition v1.2, link https://mega.nz/#!v0MCxAQD!PlL5VKQHA_Asw-71sZuyyHiSWs4ovBVmF2hlBRxAkiI /file.name readme.md /date.dc. 11/05/2022 /code. 2013 
