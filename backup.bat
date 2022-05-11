@@ -26,8 +26,8 @@ copy "readme.md" "%a%"
 copy "readme.txt" "%b%"
 copy "gamelist.md" "%c%"
 pause
-move %a% "/backup"
-move %b% "/backup"
-move %c% "/backup"
+move %a% "backup/"
+move %b% "backup/"
+move %c% "backup/"
 pause
 echo Backup created on %date% >> backup.md
