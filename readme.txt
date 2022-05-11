@@ -73,3 +73,6 @@ app.started.on.dc. 11/05/2022/var.check.readme.readme.md/var.check.logtext.readm
 command.goto.d/var.check.code. 26978/var.check.a.1 
 new.command/add.game/date dc. 11/05/2022, name Super Worldbox, link https://www.mediafire.com/file/rrmcdqdoi8a0wjz/Super.Worldbox.v0.10.1.zip/file /file.name readme.md /date.dc. 11/05/2022 /code. 26978 
 new.command/add.game.in.glist/date dc. 11/05/2022, name Super Worldbox /file.name gamelist.md /date.dc. 11/05/2022 /code. 26978 
+command.goto.d/var.check.code. 24057/var.check.a.1 
+new.command/add.game/date dc. 11/05/2022, name Pokemon Uranium, link https://www.mediafire.com/file/k6qa3f9jsacglq8/uranium.zip/file /file.name readme.md /date.dc. 11/05/2022 /code. 24057 
+new.command/add.game.in.glist/date dc. 11/05/2022, name Pokemon Uranium /file.name gamelist.md /date.dc. 11/05/2022 /code. 24057 
