@@ -2,8 +2,9 @@
 color 0a
 set readme=readme.md
 set logtext=readme.txt
+set glist=gamelist.md
 :startt
-echo app.started.on.%date%/var.check.readme.%readme%/var.check.logtext.%logtext% >> %logtext%
+echo app.started.on.%date%/var.check.readme.%readme%/var.check.logtext.%logtext%/var.check.glist.%glist% >> %logtext%
 :start
 set code= %random%
 
@@ -35,7 +36,9 @@ echo %date% >> %readme%
 echo %name% >> %readme%
 echo %url% >> %readme%
 echo ---------------------------------------------------------------------------- >> %readme%
+echo #### %name% >> %glist%
 echo new.command/add.game/date %date%, name %name%, link %url% /file.name %readme% /date.%date% /code.%code% >> %logtext%
+echo new.command/add.game.in.glist/date %date%, name %name% /file.name %glist% /date.%date% /code.%code% >> %logtext%
 
 goto start
 :b
