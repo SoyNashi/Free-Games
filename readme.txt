@@ -103,3 +103,9 @@ command.goto.d/var.check.code. 6286/var.check.a.1
 new.command/add.game/date dc. 11/05/2022, name BATTLETOADS PC ESPA¥OL, link https://playpaste.com/?v=nGG /file.name readme.md /date.dc. 11/05/2022 /code. 6286 
 new.command/add.game.in.glist/date dc. 11/05/2022, name BATTLETOADS PC ESPA¥OL /file.name gamelist.md /date.dc. 11/05/2022 /code. 6286 
 command.goto.d/var.check.code. 14099/var.check.a.1 
+new.command/add.game/date dc. 11/05/2022, name THE HENRY STICKMIN COLLECTION PC , link https://mega.nz/file/X9wlzRSZ#pl0dvTQUqKGZdYxF2uLXI3tg-xUoMEU6oHq_t1zMn7U /file.name readme.md /date.dc. 11/05/2022 /code. 14099 
+new.command/add.game.in.glist/date dc. 11/05/2022, name THE HENRY STICKMIN COLLECTION PC  /file.name gamelist.md /date.dc. 11/05/2022 /code. 14099 
+command.goto.d/var.check.code. 12391/var.check.a.1 
+new.command/add.game/date dc. 11/05/2022, name SAMURAI JACK Battle Through Time PC ESPA¥OL, link https://mega.nz/file/fkF3xKYI#2iaGrqPDBjFiqrysInDUQuqNfBmwBPDjNnUXB1zjbkw /file.name readme.md /date.dc. 11/05/2022 /code. 12391 
+new.command/add.game.in.glist/date dc. 11/05/2022, name SAMURAI JACK Battle Through Time PC ESPA¥OL /file.name gamelist.md /date.dc. 11/05/2022 /code. 12391 
+command.goto.d/var.check.code. 3244/var.check.a.1 
