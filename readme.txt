@@ -48,3 +48,11 @@ command.goto.d/var.check.code. 13640/var.check.a.1
 new.command/add.game/date dc. 11/05/2022, name Minecraft, link https://www.salwyrr.com/ /file.name readme.md /date.dc. 11/05/2022 /code. 13640 
 command.goto.d/var.check.code. 866/var.check.a.1 
 new.command/add.game/date dc. 11/05/2022, name Pokemon vs Zombies(Remake PvZ), link https://mega.nz/file/JxY2AKTR#Vsh3mL99e1NPQUIbY6J2Q678JDVKBzfELw3xhq8t520 /file.name readme.md /date.dc. 11/05/2022 /code. 866 
+command.goto.d/var.check.code. 15509/var.check.a.1 
+new.command/add.game/date dc. 11/05/2022, name Superhot, link https://steamunlocked.net/superhot-free-download/ /file.name readme.md /date.dc. 11/05/2022 /code. 15509 
+command.goto.d/var.check.code. 19240/var.check.a.1 
+new.command/add.game/date dc. 11/05/2022, name Planet Crafter, link https://www.mediafire.com/file/slzkj1wy2bv7fwx/The.Planet.Crafter.Early.Access.rar/file /file.name readme.md /date.dc. 11/05/2022 /code. 19240 
+command.goto.d/var.check.code. 17115/var.check.a.1 
+command.goto.d/var.check.code. 15277/var.check.a.1 
+new.command/add.game/date dc. 11/05/2022, name Project Zomboid, link https://steamunlocked.net/6-project-zomboid-free-pc-download/ /file.name readme.md /date.dc. 11/05/2022 /code. 15277 
+command.goto.d/var.check.code. 4841/var.check.a.1 
