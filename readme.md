@@ -163,3 +163,9 @@ dc. 11/05/2022
 Super Worldbox 
 https://www.mediafire.com/file/rrmcdqdoi8a0wjz/Super.Worldbox.v0.10.1.zip/file 
 ---------------------------------------------------------------------------- 
+---------------------------------------------------------------------------- 
+ 24057 
+dc. 11/05/2022 
+Pokemon Uranium 
+https://www.mediafire.com/file/k6qa3f9jsacglq8/uranium.zip/file 
+---------------------------------------------------------------------------- 
