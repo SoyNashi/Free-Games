@@ -144,3 +144,6 @@ new.command/add.game.in.glist/date dj. 12/05/2022, name MEEPLE STATION /file.nam
 command.goto.d/var.check.code. 13634/var.check.a.1 
 new.command/add.game/date dj. 12/05/2022, name AIRPORT CEO, link http://www.mediafire.com/file/qbnhe8qqgoml9ho/Airport.CEO.v0.21.7.rar/file /file.name readme.md /date.dj. 12/05/2022 /code. 13634 
 new.command/add.game.in.glist/date dj. 12/05/2022, name AIRPORT CEO /file.name gamelist.md /date.dj. 12/05/2022 /code. 13634 
+command.goto.d/var.check.code. 14921/var.check.a.1 
+new.command/add.game/date dj. 12/05/2022, name ACADEMIA SCHOOL SIMULATOR , link http://www.mediafire.com/file/vsl3o608y57n58t/%2ASS.V0.2.124x64-.rar/file /file.name readme.md /date.dj. 12/05/2022 /code. 14921 
+new.command/add.game.in.glist/date dj. 12/05/2022, name ACADEMIA SCHOOL SIMULATOR  /file.name gamelist.md /date.dj. 12/05/2022 /code. 14921 
