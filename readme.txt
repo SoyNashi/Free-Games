@@ -131,3 +131,7 @@ new.command/add.game.in.glist/date dj. 12/05/2022, name 7 Days to Die /file.name
 command.goto.d/var.check.code. 12703/var.check.a.1 
 new.command/add.game/date dj. 12/05/2022, name Fury Unleashed, link https://steamunlocked.net/fury-unleashed-free-download/ /file.name readme.md /date.dj. 12/05/2022 /code. 12703 
 new.command/add.game.in.glist/date dj. 12/05/2022, name Fury Unleashed /file.name gamelist.md /date.dj. 12/05/2022 /code. 12703 
+app.started.on.dj. 12/05/2022/var.check.readme.readme.md/var.check.logtext.readme.txt/var.check.glist.gamelist.md 
+command.goto.d/var.check.code. 3604/var.check.a.1 
+new.command/add.game/date dj. 12/05/2022, name People Playground, link https://steamunlocked.net/15-people-playground-free-pc-download/ /file.name readme.md /date.dj. 12/05/2022 /code. 3604 
+new.command/add.game.in.glist/date dj. 12/05/2022, name People Playground /file.name gamelist.md /date.dj. 12/05/2022 /code. 3604 
