@@ -172,31 +172,31 @@ https://www.mediafire.com/file/k6qa3f9jsacglq8/uranium.zip/file
 ---------------------------------------------------------------------------- 
  15012 
 dc. 11/05/2022 
-just shapes 
+Just shapes 
 https://mega.nz/file/hFVzTADZ#Gy5xksKMhwPoPXsg97Acwc-zXVFbiOO00K6tCns7aGY 
 ---------------------------------------------------------------------------- 
 ---------------------------------------------------------------------------- 
  6286 
 dc. 11/05/2022 
-BATTLETOADS PC ESPA¥OL 
+BATTLETOADS
 https://playpaste.com/?v=nGG 
 ---------------------------------------------------------------------------- 
 ---------------------------------------------------------------------------- 
  14099 
 dc. 11/05/2022 
-THE HENRY STICKMIN COLLECTION PC  
+THE HENRY STICKMAN
 https://mega.nz/file/X9wlzRSZ#pl0dvTQUqKGZdYxF2uLXI3tg-xUoMEU6oHq_t1zMn7U 
 ---------------------------------------------------------------------------- 
 ---------------------------------------------------------------------------- 
  12391 
 dc. 11/05/2022 
-SAMURAI JACK Battle Through Time PC ESPA¥OL 
+SAMURAI JACK Battle Through Time
 https://mega.nz/file/fkF3xKYI#2iaGrqPDBjFiqrysInDUQuqNfBmwBPDjNnUXB1zjbkw 
 ---------------------------------------------------------------------------- 
 ---------------------------------------------------------------------------- 
  3244 
 dc. 11/05/2022 
-GLEAMLIGHT PC ESPA¥OL 
+GLEAMLIGHT 
 https://mega.nz/file/pZlyXYJT#JKDdCE7fNvKZhxgX4QHTLp-lZAW6_tOAi6ebADVvSZI 
 ---------------------------------------------------------------------------- 
 ---------------------------------------------------------------------------- 
@@ -214,12 +214,12 @@ https://mega.nz/file/8B0WGY6K#EY9GkUl4Z9D1THZKJKIzrp8FcPBFc1liKSTDSYe1KeA
 ---------------------------------------------------------------------------- 
  23782 
 dc. 11/05/2022 
-MEWN BASE PC EN ESPA¥OL v0.51 
+MEWN BASE
 https://mega.nz/file/zQFHhITJ#OnEum57vFBwP1ROnXM1DvFf-PasXc5egZnf88yz7QGM 
 ---------------------------------------------------------------------------- 
 ---------------------------------------------------------------------------- 
  28910 
 dc. 11/05/2022 
-MAD GAMES TYCOON PC ESPA¥OL  
+MAD GAMES TYCOON  
 https://mega.nz/#!xdMlRCaS!zVI_Z1-K1T-OWgj9fzyBYizCcBEG9nKRWPzksZr0A-E 
 ---------------------------------------------------------------------------- 
