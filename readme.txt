@@ -124,3 +124,7 @@ app.started.on.dc. 11/05/2022/var.check.readme.readme.md/var.check.logtext.readm
 command.goto.d/var.check.code. 28910/var.check.a.1 
 new.command/add.game/date dc. 11/05/2022, name MAD GAMES TYCOON PC ESPA¥OL , link https://mega.nz/#!xdMlRCaS!zVI_Z1-K1T-OWgj9fzyBYizCcBEG9nKRWPzksZr0A-E /file.name readme.md /date.dc. 11/05/2022 /code. 28910 
 new.command/add.game.in.glist/date dc. 11/05/2022, name MAD GAMES TYCOON PC ESPA¥OL  /file.name gamelist.md /date.dc. 11/05/2022 /code. 28910 
+app.started.on.dj. 12/05/2022/var.check.readme.readme.md/var.check.logtext.readme.txt/var.check.glist.gamelist.md 
+command.goto.d/var.check.code. 2466/var.check.a.1 
+new.command/add.game/date dj. 12/05/2022, name 7 Days to Die, link https://mega.nz/file/w4kUDSbR#_GlrbJcE4cJImLm6oYZM39UUm36iIVfWmsdJMklUuBw /file.name readme.md /date.dj. 12/05/2022 /code. 2466 
+new.command/add.game.in.glist/date dj. 12/05/2022, name 7 Days to Die /file.name gamelist.md /date.dj. 12/05/2022 /code. 2466 

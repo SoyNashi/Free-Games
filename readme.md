@@ -223,3 +223,9 @@ dc. 11/05/2022
 MAD GAMES TYCOON  
 https://mega.nz/#!xdMlRCaS!zVI_Z1-K1T-OWgj9fzyBYizCcBEG9nKRWPzksZr0A-E 
 ---------------------------------------------------------------------------- 
+---------------------------------------------------------------------------- 
+ 2466 
+dj. 12/05/2022 
+7 Days to Die 
+https://mega.nz/file/w4kUDSbR#_GlrbJcE4cJImLm6oYZM39UUm36iIVfWmsdJMklUuBw 
+---------------------------------------------------------------------------- 
