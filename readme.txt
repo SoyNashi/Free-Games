@@ -135,3 +135,7 @@ app.started.on.dj. 12/05/2022/var.check.readme.readme.md/var.check.logtext.readm
 command.goto.d/var.check.code. 3604/var.check.a.1 
 new.command/add.game/date dj. 12/05/2022, name People Playground, link https://steamunlocked.net/15-people-playground-free-pc-download/ /file.name readme.md /date.dj. 12/05/2022 /code. 3604 
 new.command/add.game.in.glist/date dj. 12/05/2022, name People Playground /file.name gamelist.md /date.dj. 12/05/2022 /code. 3604 
+app.started.on.dj. 12/05/2022/var.check.readme.readme.md/var.check.logtext.readme.txt/var.check.glist.gamelist.md 
+command.goto.d/var.check.code. 30029/var.check.a.1 
+new.command/add.game/date dj. 12/05/2022, name Undertale, link https://mega.nz/file/IxhVha4b#h6fdjpn9iyFw-5RDekhDQulQaQXfkrysxj2tJatWOxo /file.name readme.md /date.dj. 12/05/2022 /code. 30029 
+new.command/add.game.in.glist/date dj. 12/05/2022, name Undertale /file.name gamelist.md /date.dj. 12/05/2022 /code. 30029 
