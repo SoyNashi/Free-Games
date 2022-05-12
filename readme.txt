@@ -100,17 +100,17 @@ command.goto.d/var.check.code. 15012/var.check.a.1
 new.command/add.game/date dc. 11/05/2022, name just shapes, link https://mega.nz/file/hFVzTADZ#Gy5xksKMhwPoPXsg97Acwc-zXVFbiOO00K6tCns7aGY /file.name readme.md /date.dc. 11/05/2022 /code. 15012 
 new.command/add.game.in.glist/date dc. 11/05/2022, name just shapes /file.name gamelist.md /date.dc. 11/05/2022 /code. 15012 
 command.goto.d/var.check.code. 6286/var.check.a.1 
-new.command/add.game/date dc. 11/05/2022, name BATTLETOADS PC ESPA¥OL, link https://playpaste.com/?v=nGG /file.name readme.md /date.dc. 11/05/2022 /code. 6286 
-new.command/add.game.in.glist/date dc. 11/05/2022, name BATTLETOADS PC ESPA¥OL /file.name gamelist.md /date.dc. 11/05/2022 /code. 6286 
+new.command/add.game/date dc. 11/05/2022, name BATTLETOADS PC ESPAï¿½OL, link https://playpaste.com/?v=nGG /file.name readme.md /date.dc. 11/05/2022 /code. 6286 
+new.command/add.game.in.glist/date dc. 11/05/2022, name BATTLETOADS PC ESPAï¿½OL /file.name gamelist.md /date.dc. 11/05/2022 /code. 6286 
 command.goto.d/var.check.code. 14099/var.check.a.1 
 new.command/add.game/date dc. 11/05/2022, name THE HENRY STICKMIN COLLECTION PC , link https://mega.nz/file/X9wlzRSZ#pl0dvTQUqKGZdYxF2uLXI3tg-xUoMEU6oHq_t1zMn7U /file.name readme.md /date.dc. 11/05/2022 /code. 14099 
 new.command/add.game.in.glist/date dc. 11/05/2022, name THE HENRY STICKMIN COLLECTION PC  /file.name gamelist.md /date.dc. 11/05/2022 /code. 14099 
 command.goto.d/var.check.code. 12391/var.check.a.1 
-new.command/add.game/date dc. 11/05/2022, name SAMURAI JACK Battle Through Time PC ESPA¥OL, link https://mega.nz/file/fkF3xKYI#2iaGrqPDBjFiqrysInDUQuqNfBmwBPDjNnUXB1zjbkw /file.name readme.md /date.dc. 11/05/2022 /code. 12391 
-new.command/add.game.in.glist/date dc. 11/05/2022, name SAMURAI JACK Battle Through Time PC ESPA¥OL /file.name gamelist.md /date.dc. 11/05/2022 /code. 12391 
+new.command/add.game/date dc. 11/05/2022, name SAMURAI JACK Battle Through Time PC ESPAï¿½OL, link https://mega.nz/file/fkF3xKYI#2iaGrqPDBjFiqrysInDUQuqNfBmwBPDjNnUXB1zjbkw /file.name readme.md /date.dc. 11/05/2022 /code. 12391 
+new.command/add.game.in.glist/date dc. 11/05/2022, name SAMURAI JACK Battle Through Time PC ESPAï¿½OL /file.name gamelist.md /date.dc. 11/05/2022 /code. 12391 
 command.goto.d/var.check.code. 3244/var.check.a.1 
-new.command/add.game/date dc. 11/05/2022, name GLEAMLIGHT PC ESPA¥OL, link https://mega.nz/file/pZlyXYJT#JKDdCE7fNvKZhxgX4QHTLp-lZAW6_tOAi6ebADVvSZI /file.name readme.md /date.dc. 11/05/2022 /code. 3244 
-new.command/add.game.in.glist/date dc. 11/05/2022, name GLEAMLIGHT PC ESPA¥OL /file.name gamelist.md /date.dc. 11/05/2022 /code. 3244 
+new.command/add.game/date dc. 11/05/2022, name GLEAMLIGHT PC ESPAï¿½OL, link https://mega.nz/file/pZlyXYJT#JKDdCE7fNvKZhxgX4QHTLp-lZAW6_tOAi6ebADVvSZI /file.name readme.md /date.dc. 11/05/2022 /code. 3244 
+new.command/add.game.in.glist/date dc. 11/05/2022, name GLEAMLIGHT PC ESPAï¿½OL /file.name gamelist.md /date.dc. 11/05/2022 /code. 3244 
 command.goto.d/var.check.code. 2635/var.check.a.1 
 new.command/add.game/date dc. 11/05/2022, name SKELATTACK, link https://mega.nz/file/5lglHKCK#hRRum2OCW7U2vZBIfdKqxnWNmIC-SY7QQVY9o7BVB_4 /file.name readme.md /date.dc. 11/05/2022 /code. 2635 
 new.command/add.game.in.glist/date dc. 11/05/2022, name SKELATTACK /file.name gamelist.md /date.dc. 11/05/2022 /code. 2635 
@@ -118,12 +118,12 @@ command.goto.d/var.check.code. 22680/var.check.a.1
 new.command/add.game/date dc. 11/05/2022, name NEON ABYSS, link https://mega.nz/file/8B0WGY6K#EY9GkUl4Z9D1THZKJKIzrp8FcPBFc1liKSTDSYe1KeA /file.name readme.md /date.dc. 11/05/2022 /code. 22680 
 new.command/add.game.in.glist/date dc. 11/05/2022, name NEON ABYSS /file.name gamelist.md /date.dc. 11/05/2022 /code. 22680 
 command.goto.d/var.check.code. 23782/var.check.a.1 
-new.command/add.game/date dc. 11/05/2022, name MEWN BASE PC EN ESPA¥OL v0.51, link https://mega.nz/file/zQFHhITJ#OnEum57vFBwP1ROnXM1DvFf-PasXc5egZnf88yz7QGM /file.name readme.md /date.dc. 11/05/2022 /code. 23782 
-new.command/add.game.in.glist/date dc. 11/05/2022, name MEWN BASE PC EN ESPA¥OL v0.51 /file.name gamelist.md /date.dc. 11/05/2022 /code. 23782 
+new.command/add.game/date dc. 11/05/2022, name MEWN BASE PC EN ESPAï¿½OL v0.51, link https://mega.nz/file/zQFHhITJ#OnEum57vFBwP1ROnXM1DvFf-PasXc5egZnf88yz7QGM /file.name readme.md /date.dc. 11/05/2022 /code. 23782 
+new.command/add.game.in.glist/date dc. 11/05/2022, name MEWN BASE PC EN ESPAï¿½OL v0.51 /file.name gamelist.md /date.dc. 11/05/2022 /code. 23782 
 app.started.on.dc. 11/05/2022/var.check.readme.readme.md/var.check.logtext.readme.txt/var.check.glist.gamelist.md 
 command.goto.d/var.check.code. 28910/var.check.a.1 
-new.command/add.game/date dc. 11/05/2022, name MAD GAMES TYCOON PC ESPA¥OL , link https://mega.nz/#!xdMlRCaS!zVI_Z1-K1T-OWgj9fzyBYizCcBEG9nKRWPzksZr0A-E /file.name readme.md /date.dc. 11/05/2022 /code. 28910 
-new.command/add.game.in.glist/date dc. 11/05/2022, name MAD GAMES TYCOON PC ESPA¥OL  /file.name gamelist.md /date.dc. 11/05/2022 /code. 28910 
+new.command/add.game/date dc. 11/05/2022, name MAD GAMES TYCOON PC ESPAï¿½OL , link https://mega.nz/#!xdMlRCaS!zVI_Z1-K1T-OWgj9fzyBYizCcBEG9nKRWPzksZr0A-E /file.name readme.md /date.dc. 11/05/2022 /code. 28910 
+new.command/add.game.in.glist/date dc. 11/05/2022, name MAD GAMES TYCOON PC ESPAï¿½OL  /file.name gamelist.md /date.dc. 11/05/2022 /code. 28910 
 app.started.on.dj. 12/05/2022/var.check.readme.readme.md/var.check.logtext.readme.txt/var.check.glist.gamelist.md 
 command.goto.d/var.check.code. 2466/var.check.a.1 
 new.command/add.game/date dj. 12/05/2022, name 7 Days to Die, link https://mega.nz/file/w4kUDSbR#_GlrbJcE4cJImLm6oYZM39UUm36iIVfWmsdJMklUuBw /file.name readme.md /date.dj. 12/05/2022 /code. 2466 
@@ -135,3 +135,12 @@ app.started.on.dj. 12/05/2022/var.check.readme.readme.md/var.check.logtext.readm
 command.goto.d/var.check.code. 3604/var.check.a.1 
 new.command/add.game/date dj. 12/05/2022, name People Playground, link https://steamunlocked.net/15-people-playground-free-pc-download/ /file.name readme.md /date.dj. 12/05/2022 /code. 3604 
 new.command/add.game.in.glist/date dj. 12/05/2022, name People Playground /file.name gamelist.md /date.dj. 12/05/2022 /code. 3604 
+command.goto.d/var.check.code. 5296/var.check.a.1 
+new.command/add.game/date dj. 12/05/2022, name LITTLEWOOD, link https://mega.nz/file/DgQU0aKL#gycD9incp5FY82vmnk-rmnK0CWaXlb0Xrw_W3zRzA8A /file.name readme.md /date.dj. 12/05/2022 /code. 5296 
+new.command/add.game.in.glist/date dj. 12/05/2022, name LITTLEWOOD /file.name gamelist.md /date.dj. 12/05/2022 /code. 5296 
+command.goto.d/var.check.code. 2713/var.check.a.1 
+new.command/add.game/date dj. 12/05/2022, name MEEPLE STATION, link https://mega.nz/file/elN1SSAY#4EFGBR6RHCkYkdLU0fMxubYOB-4QBjWKePDe_FoYznU /file.name readme.md /date.dj. 12/05/2022 /code. 2713 
+new.command/add.game.in.glist/date dj. 12/05/2022, name MEEPLE STATION /file.name gamelist.md /date.dj. 12/05/2022 /code. 2713 
+command.goto.d/var.check.code. 13634/var.check.a.1 
+new.command/add.game/date dj. 12/05/2022, name AIRPORT CEO, link http://www.mediafire.com/file/qbnhe8qqgoml9ho/Airport.CEO.v0.21.7.rar/file /file.name readme.md /date.dj. 12/05/2022 /code. 13634 
+new.command/add.game.in.glist/date dj. 12/05/2022, name AIRPORT CEO /file.name gamelist.md /date.dj. 12/05/2022 /code. 13634 
