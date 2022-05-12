@@ -128,3 +128,6 @@ app.started.on.dj. 12/05/2022/var.check.readme.readme.md/var.check.logtext.readm
 command.goto.d/var.check.code. 2466/var.check.a.1 
 new.command/add.game/date dj. 12/05/2022, name 7 Days to Die, link https://mega.nz/file/w4kUDSbR#_GlrbJcE4cJImLm6oYZM39UUm36iIVfWmsdJMklUuBw /file.name readme.md /date.dj. 12/05/2022 /code. 2466 
 new.command/add.game.in.glist/date dj. 12/05/2022, name 7 Days to Die /file.name gamelist.md /date.dj. 12/05/2022 /code. 2466 
+command.goto.d/var.check.code. 12703/var.check.a.1 
+new.command/add.game/date dj. 12/05/2022, name Fury Unleashed, link https://steamunlocked.net/fury-unleashed-free-download/ /file.name readme.md /date.dj. 12/05/2022 /code. 12703 
+new.command/add.game.in.glist/date dj. 12/05/2022, name Fury Unleashed /file.name gamelist.md /date.dj. 12/05/2022 /code. 12703 

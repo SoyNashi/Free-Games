@@ -229,3 +229,9 @@ dj. 12/05/2022
 7 Days to Die 
 https://mega.nz/file/w4kUDSbR#_GlrbJcE4cJImLm6oYZM39UUm36iIVfWmsdJMklUuBw 
 ---------------------------------------------------------------------------- 
+---------------------------------------------------------------------------- 
+ 12703 
+dj. 12/05/2022 
+Fury Unleashed 
+https://steamunlocked.net/fury-unleashed-free-download/ 
+---------------------------------------------------------------------------- 
