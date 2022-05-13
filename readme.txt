@@ -135,12 +135,10 @@ app.started.on.dj. 12/05/2022/var.check.readme.readme.md/var.check.logtext.readm
 command.goto.d/var.check.code. 3604/var.check.a.1 
 new.command/add.game/date dj. 12/05/2022, name People Playground, link https://steamunlocked.net/15-people-playground-free-pc-download/ /file.name readme.md /date.dj. 12/05/2022 /code. 3604 
 new.command/add.game.in.glist/date dj. 12/05/2022, name People Playground /file.name gamelist.md /date.dj. 12/05/2022 /code. 3604 
-<<<<<<< HEAD
 app.started.on.dj. 12/05/2022/var.check.readme.readme.md/var.check.logtext.readme.txt/var.check.glist.gamelist.md 
 command.goto.d/var.check.code. 30029/var.check.a.1 
 new.command/add.game/date dj. 12/05/2022, name Undertale, link https://mega.nz/file/IxhVha4b#h6fdjpn9iyFw-5RDekhDQulQaQXfkrysxj2tJatWOxo /file.name readme.md /date.dj. 12/05/2022 /code. 30029 
 new.command/add.game.in.glist/date dj. 12/05/2022, name Undertale /file.name gamelist.md /date.dj. 12/05/2022 /code. 30029 
-=======
 command.goto.d/var.check.code. 5296/var.check.a.1 
 new.command/add.game/date dj. 12/05/2022, name LITTLEWOOD, link https://mega.nz/file/DgQU0aKL#gycD9incp5FY82vmnk-rmnK0CWaXlb0Xrw_W3zRzA8A /file.name readme.md /date.dj. 12/05/2022 /code. 5296 
 new.command/add.game.in.glist/date dj. 12/05/2022, name LITTLEWOOD /file.name gamelist.md /date.dj. 12/05/2022 /code. 5296 
@@ -153,4 +151,9 @@ new.command/add.game.in.glist/date dj. 12/05/2022, name AIRPORT CEO /file.name g
 command.goto.d/var.check.code. 14921/var.check.a.1 
 new.command/add.game/date dj. 12/05/2022, name ACADEMIA SCHOOL SIMULATOR , link http://www.mediafire.com/file/vsl3o608y57n58t/%2ASS.V0.2.124x64-.rar/file /file.name readme.md /date.dj. 12/05/2022 /code. 14921 
 new.command/add.game.in.glist/date dj. 12/05/2022, name ACADEMIA SCHOOL SIMULATOR  /file.name gamelist.md /date.dj. 12/05/2022 /code. 14921 
->>>>>>> e750d568e53a73e1eb08accabce88fe1a9668b11
+command.goto.d/var.check.code. 23966/var.check.a.1 
+new.command/add.game/date dj. 12/05/2022, name ANOTHER BRICK IN THE MALL, link https://mega.nz/#!IcMDUKCL!r-0Co-QyEapn-S2n5l9maKZjnNLITQS1xlfeJoxMq3U /file.name readme.md /date.dj. 12/05/2022 /code. 23966 
+new.command/add.game.in.glist/date dj. 12/05/2022, name ANOTHER BRICK IN THE MALL /file.name gamelist.md /date.dj. 12/05/2022 /code. 23966 
+command.goto.d/var.check.code. 22542/var.check.a.1 
+new.command/add.game/date dj. 12/05/2022, name INFECTONATOR 3 APOCALYPSE, link https://mega.nz/#!NREESQYC!ZLwq5D_gUF7yZhcW-ejEZRQbUeOnXOJWUzUXV5QB0Oo /file.name readme.md /date.dj. 12/05/2022 /code. 22542 
+new.command/add.game.in.glist/date dj. 12/05/2022, name INFECTONATOR 3 APOCALYPSE /file.name gamelist.md /date.dj. 12/05/2022 /code. 22542 
