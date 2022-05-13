@@ -157,3 +157,6 @@ new.command/add.game.in.glist/date dj. 12/05/2022, name ANOTHER BRICK IN THE MAL
 command.goto.d/var.check.code. 22542/var.check.a.1 
 new.command/add.game/date dj. 12/05/2022, name INFECTONATOR 3 APOCALYPSE, link https://mega.nz/#!NREESQYC!ZLwq5D_gUF7yZhcW-ejEZRQbUeOnXOJWUzUXV5QB0Oo /file.name readme.md /date.dj. 12/05/2022 /code. 22542 
 new.command/add.game.in.glist/date dj. 12/05/2022, name INFECTONATOR 3 APOCALYPSE /file.name gamelist.md /date.dj. 12/05/2022 /code. 22542 
+command.goto.d/var.check.code. 2147/var.check.a.1 
+new.command/add.game/date dv. 13/05/2022, name Crypto Miner Tycoon Simulator, link https://steamunlocked.net/2-crypto-miner-tycoon-simulator-free-download/ /file.name readme.md /date.dv. 13/05/2022 /code. 2147 
+new.command/add.game.in.glist/date dv. 13/05/2022, name Crypto Miner Tycoon Simulator /file.name gamelist.md /date.dv. 13/05/2022 /code. 2147 

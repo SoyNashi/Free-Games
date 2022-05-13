@@ -39,3 +39,4 @@
 #### ACADEMIA SCHOOL SIMULATOR  
 #### ANOTHER BRICK IN THE MALL 
 #### INFECTONATOR 3 APOCALYPSE 
+#### Crypto Miner Tycoon Simulator 

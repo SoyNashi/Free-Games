@@ -283,3 +283,9 @@ dj. 12/05/2022
 INFECTONATOR 3 APOCALYPSE 
 https://mega.nz/#!NREESQYC!ZLwq5D_gUF7yZhcW-ejEZRQbUeOnXOJWUzUXV5QB0Oo 
 ---------------------------------------------------------------------------- 
+---------------------------------------------------------------------------- 
+ 2147 
+dv. 13/05/2022 
+Crypto Miner Tycoon Simulator 
+https://steamunlocked.net/2-crypto-miner-tycoon-simulator-free-download/ 
+---------------------------------------------------------------------------- 
