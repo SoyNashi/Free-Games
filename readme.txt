@@ -160,3 +160,14 @@ new.command/add.game.in.glist/date dj. 12/05/2022, name INFECTONATOR 3 APOCALYPS
 command.goto.d/var.check.code. 2147/var.check.a.1 
 new.command/add.game/date dv. 13/05/2022, name Crypto Miner Tycoon Simulator, link https://steamunlocked.net/2-crypto-miner-tycoon-simulator-free-download/ /file.name readme.md /date.dv. 13/05/2022 /code. 2147 
 new.command/add.game.in.glist/date dv. 13/05/2022, name Crypto Miner Tycoon Simulator /file.name gamelist.md /date.dv. 13/05/2022 /code. 2147 
+code.created/var.check.code. 2964/code. 2964 command.not.found 
+app.command.exit.30/04/2022 
+start.backup.14/05/2022 
+var.check.a.Readme_2022-05-14.txt/var.check.b.Log_2022-05-14.txt/var.check.c.Glist_2022-05-14.txt/ 
+file.created.Readme_2022-05-14.txt 
+file.created.Log_2022-05-14.txt 
+file.created.Glist_2022-05-14.txt 
+file.copied.readmemd.to.Readme_2022-05-14.txt 
+file.copied.readmetxt.to.Log_2022-05-14.txt 
+file.copied.gamelistmd.to.Glist_2022-05-14.txt 
+backup.completed 
