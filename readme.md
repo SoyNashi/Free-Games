@@ -287,5 +287,5 @@ https://mega.nz/#!NREESQYC!ZLwq5D_gUF7yZhcW-ejEZRQbUeOnXOJWUzUXV5QB0Oo
  2147 
 dv. 13/05/2022 
 Crypto Miner Tycoon Simulator 
-https://steamunlocked.net/2-crypto-miner-tycoon-simulator-free-download/ 
+https://mega.nz/file/Kt0mVBRa#6ZgDgyPQRXGpF3E5cJULv0pIvT8IMMxf5dbuev81sms
 ---------------------------------------------------------------------------- 
