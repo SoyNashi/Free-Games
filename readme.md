@@ -94,7 +94,9 @@ https://mega.nz/file/kB0UABqC#VpvZ30588WH_CJLhRbMqPDedQZ_HnEl4_VNnIFA80bs
 ---------------------------------------------------------------------------- 
  29949 
 dc. 11/05/2022 
-Forager 
+Forager Singleplayer
+https://mega.nz/file/cR1ghCwa#rLelQRohxCcsorqeG-PetZXol1sgpD3nxSXCOlUzW5Y
+Forager Multiplayer
 https://mega.nz/file/Cw1FjIIL#xy1gkk_xrAx12OoZckWFqJ-sGEurJb3roq0cxD_MAGI 
 ---------------------------------------------------------------------------- 
 ---------------------------------------------------------------------------- 
