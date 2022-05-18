@@ -171,3 +171,18 @@ file.copied.readmemd.to.Readme_2022-05-14.txt
 file.copied.readmetxt.to.Log_2022-05-14.txt 
 file.copied.gamelistmd.to.Glist_2022-05-14.txt 
 backup.completed 
+app.started.on.dc. 18/05/2022/var.check.readme.readme.md/var.check.logtext.readme.txt/var.check.glist.gamelist.md 
+command.goto.d/var.check.code. 21637/var.check.a.1 
+new.command/add.game/date dc. 18/05/2022, name Webbed, link https://steamunlocked.net/13-webbed-free-download/ /file.name readme.md /date.dc. 18/05/2022 /code. 21637 
+new.command/add.game.in.glist/date dc. 18/05/2022, name Webbed /file.name gamelist.md /date.dc. 18/05/2022 /code. 21637 
+command.goto.d/var.check.code. 21879/var.check.a.1 
+app.started.on.dc. 18/05/2022/var.check.readme.readme.md/var.check.logtext.readme.txt/var.check.glist.gamelist.md 
+command.goto.d/var.check.code. 22110/var.check.a.1 
+new.command/add.game/date dc. 18/05/2022, name Black Skylands, link https://steamunlocked.net/1-black-skylands-free-download/ /file.name readme.md /date.dc. 18/05/2022 /code. 22110 
+new.command/add.game.in.glist/date dc. 18/05/2022, name Black Skylands /file.name gamelist.md /date.dc. 18/05/2022 /code. 22110 
+command.goto.d/var.check.code. 7533/var.check.a.1 
+new.command/add.game/date dc. 18/05/2022, name Aeon Drive, link https://steamunlocked.net/1-aeon-drive-free-download/ /file.name readme.md /date.dc. 18/05/2022 /code. 7533 
+new.command/add.game.in.glist/date dc. 18/05/2022, name Aeon Drive /file.name gamelist.md /date.dc. 18/05/2022 /code. 7533 
+command.goto.d/var.check.code. 23959/var.check.a.1 
+new.command/add.game/date dc. 18/05/2022, name Greak: Memories Of Azur, link https://steamunlocked.net/5-greak-memories-of-azur-free-download/ /file.name readme.md /date.dc. 18/05/2022 /code. 23959 
+new.command/add.game.in.glist/date dc. 18/05/2022, name Greak: Memories Of Azur /file.name gamelist.md /date.dc. 18/05/2022 /code. 23959 
