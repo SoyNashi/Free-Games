@@ -186,3 +186,12 @@ new.command/add.game.in.glist/date dc. 18/05/2022, name Aeon Drive /file.name ga
 command.goto.d/var.check.code. 23959/var.check.a.1 
 new.command/add.game/date dc. 18/05/2022, name Greak: Memories Of Azur, link https://steamunlocked.net/5-greak-memories-of-azur-free-download/ /file.name readme.md /date.dc. 18/05/2022 /code. 23959 
 new.command/add.game.in.glist/date dc. 18/05/2022, name Greak: Memories Of Azur /file.name gamelist.md /date.dc. 18/05/2022 /code. 23959 
+start.backup.21/05/2022 
+var.check.a.Readme_2022-05-21.txt/var.check.b.Log_2022-05-21.txt/var.check.c.Glist_2022-05-21.txt/ 
+file.created.Readme_2022-05-21.txt 
+file.created.Log_2022-05-21.txt 
+file.created.Glist_2022-05-21.txt 
+file.copied.readmemd.to.Readme_2022-05-21.txt 
+file.copied.readmetxt.to.Log_2022-05-21.txt 
+file.copied.gamelistmd.to.Glist_2022-05-21.txt 
+backup.completed 
