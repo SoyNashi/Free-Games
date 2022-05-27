@@ -186,6 +186,7 @@ new.command/add.game.in.glist/date dc. 18/05/2022, name Aeon Drive /file.name ga
 command.goto.d/var.check.code. 23959/var.check.a.1 
 new.command/add.game/date dc. 18/05/2022, name Greak: Memories Of Azur, link https://steamunlocked.net/5-greak-memories-of-azur-free-download/ /file.name readme.md /date.dc. 18/05/2022 /code. 23959 
 new.command/add.game.in.glist/date dc. 18/05/2022, name Greak: Memories Of Azur /file.name gamelist.md /date.dc. 18/05/2022 /code. 23959 
+<<<<<<< Updated upstream
 start.backup.21/05/2022 
 var.check.a.Readme_2022-05-21.txt/var.check.b.Log_2022-05-21.txt/var.check.c.Glist_2022-05-21.txt/ 
 file.created.Readme_2022-05-21.txt 
@@ -195,3 +196,9 @@ file.copied.readmemd.to.Readme_2022-05-21.txt
 file.copied.readmetxt.to.Log_2022-05-21.txt 
 file.copied.gamelistmd.to.Glist_2022-05-21.txt 
 backup.completed 
+=======
+app.started.on.dv. 27/05/2022/var.check.readme.readme.md/var.check.logtext.readme.txt/var.check.glist.gamelist.md 
+command.goto.d/var.check.code. 9580/var.check.a.1 
+new.command/add.game/date dv. 27/05/2022, name Slime rancher, link https://games-database.com/5A6 /file.name readme.md /date.dv. 27/05/2022 /code. 9580 
+new.command/add.game.in.glist/date dv. 27/05/2022, name Slime rancher /file.name gamelist.md /date.dv. 27/05/2022 /code. 9580 
+>>>>>>> Stashed changes
