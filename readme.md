@@ -47,7 +47,7 @@ https://mega.nz/file/Z0gAkToC#w2l_EEmXuqUy_n_cllMnr7GtYjg1G-Y9IMxQ2dk9Uf4
  27060 
 dl. 09/05/2022 
 PAPERS PLEASE
-https://mega.nz/file/A2YgzL7S#1JPq7jofwGXigJRuWNAT1yZPFDvwRFEMwxFjttCdffY 
+https://steamunlocked.net/38-papers-please-free-download/
 ---------------------------------------------------------------------------- 
 ---------------------------------------------------------------------------- 
  7668 
